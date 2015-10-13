@@ -1,4 +1,4 @@
-# loaderjs
+# LoaderJS
 
 A clean Loader widget entirely written in JavaScript (no JS libraries) that displays loading progress, extending a basic timer object which counts from 0 to n. It is based on HTML5 (canvas). Web browser compatibility: IE9+, FF, Safari, Chrome.
 
